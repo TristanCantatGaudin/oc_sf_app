@@ -101,7 +101,7 @@ with open('run1_XGBOOST_model.pkl', 'rb') as f:
 all_features = [all_stars_Galactic.l.value,
                 all_stars_Galactic.b.value,
                 pmra,pmdec,
-                all_stars_Galactic.distance.value,
+                1000*all_stars_Galactic.distance.value,
                 age, mass]
 all_features = np.array(all_features).T
 
