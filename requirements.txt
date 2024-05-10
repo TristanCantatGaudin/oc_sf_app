@@ -1,0 +1,6 @@
+streamlit
+astropy
+numpy
+matplotlib
+xgboost
+sklearn
