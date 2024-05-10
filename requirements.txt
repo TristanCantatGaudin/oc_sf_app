@@ -3,4 +3,4 @@ astropy
 numpy
 matplotlib
 xgboost
-sklearn
+scikit-learn
