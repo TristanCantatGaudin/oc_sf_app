@@ -5,3 +5,6 @@ Run it locally with
 Then
 
     streamlit run app.py
+
+
+<img src="screenshot1.png" style="width: 80%; height: 80%"/>
