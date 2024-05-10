@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+@st.cache_data
 def mock_mw(N=2000,scaleLength=3., scaleHeight8=0.2, flaring=-0.1, minR=8, maxR=30):
     """ 
     Mock Milky Way
