@@ -7,4 +7,4 @@ Then
     streamlit run app.py
 
 
-<img src="screenshot1.png" style="width: 50%; height: 50%"/>
+<img src="screenshot_mw_app.png" style="width: 70%; height: 70%"/>
