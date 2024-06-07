@@ -1,4 +1,6 @@
-Run it locally with
+https://ocsfapp-8tyabnogzeqsaqirrvcnby.streamlit.app/
+
+or run it locally with
 
     git clone https://github.com/TristanCantatGaudin/oc_sf_app.git
 
